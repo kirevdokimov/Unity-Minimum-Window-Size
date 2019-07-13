@@ -4,7 +4,7 @@ Set minimum window size for Windows build in Unity
 
 ![](min-size-0.gif)
 
-#Usage
+# Usage
 
 ```c#
 int minWidth = 200;
